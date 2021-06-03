@@ -11,7 +11,7 @@ The CSS selectors are consolidated and file is properly commented to 'clean' the
 
 ## Working links
 
-* Github: https://github.com/mz0121coder/Code-refactor
-* Deployed: https://mz0121coder.github.io/Code-refactor/ 
+* Repo: https://github.com/mz0121coder/Code-refactor
+* Main URL: https://mz0121coder.github.io/Code-refactor/ 
 
 ![horiseon-page-preview](./assets/images/horiseon-page-preview.png)
